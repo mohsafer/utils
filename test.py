@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+CVE-2026-31431 
 import os as g,zlib,socket as s
 def d(x):return bytes.fromhex(x)
 def c(f,t,c):

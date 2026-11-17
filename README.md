@@ -2,8 +2,12 @@
 random tools and scripts
 
 
+## server_over_ssh
+
+Simple directory browsing on remove server
+
 ## copy-as-markdown-link
-Unzip the file. On your Fedora machine: unzip copy-as-markdown-link.zip.
+Unzip the file. On your machine: unzip copy-as-markdown-link.zip.
 In Brave, open brave://extensions in the address bar.
 Turn on Developer mode (toggle in the top-right corner).
 Click Load unpacked.
